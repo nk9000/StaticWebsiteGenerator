@@ -6,7 +6,7 @@
 LINKS
 
 
-page 1==https://stunning-swan-2a2942.netlify.app/
+page 1==https://64c5f35f23a9c34fa6205bfd--magnificent-flan-40f5d0.netlify.app/
 
 page 2==https://64c5edd2ce1ad74fdb7f7aed--stunning-swan-2a2942.netlify.app/
 
